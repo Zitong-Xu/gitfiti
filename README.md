@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/gelstudios/gitfiti.svg?branch=master)](https://travis-ci.org/gelstudios/gitfiti)
 
 gitfiti _noun_ : Carefully crafted graffiti in a github commit history calendar.  
-
+ZITONG EDIT DEC.13
 An example of gitfiti in the wild:  
 ![alt text](https://raw.github.com/gelstudios/gitfiti/master/gitfiti-screenshot.png "screenshot")
 
